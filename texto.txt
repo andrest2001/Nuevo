@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hola,andres! deja esta linea,perro
+
+hola
+lo
+>>>>>>> 2f216d811c7d3fd1e3c6338932ec7da043b6c895
 
